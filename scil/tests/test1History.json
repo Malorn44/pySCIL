@@ -1,0 +1,1849 @@
+{
+    "turns": [
+        {
+            "turn": "Hello! Are you familier with non government organizations?",
+            "history": {}
+        },
+        {
+            "turn": "I think i am but it depends what type you are talking about.",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I have heard of it and have seen their many commercials. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "That is great! Have you ever made a donation to this organization?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "That's nice, how much are you thinking of?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "I was thinking a good amount for me will be $1",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                }
+            }
+        },
+        {
+            "turn": "Am i able to donate directly or how does that work?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                },
+                "T17": {
+                    "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+                    "topics": [
+                        "way",
+                        "money",
+                        "hands"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "At the end you will be asked if you want to donate any of your $2 bonus. The research team will then collect all funds donated and send them to Save the Children",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                },
+                "T17": {
+                    "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+                    "topics": [
+                        "way",
+                        "money",
+                        "hands"
+                    ]
+                },
+                "T18": {
+                    "turn": "Am i able to donate directly or how does that work?",
+                    "topics": []
+                }
+            }
+        },
+        {
+            "turn": "Nice, so i guess i can donate now, right?",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                },
+                "T17": {
+                    "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+                    "topics": [
+                        "way",
+                        "money",
+                        "hands"
+                    ]
+                },
+                "T18": {
+                    "turn": "Am i able to donate directly or how does that work?",
+                    "topics": []
+                },
+                "T19": {
+                    "turn": "At the end you will be asked if you want to donate any of your $2 bonus. The research team will then collect all funds donated and send them to Save the Children",
+                    "topics": [
+                        "end",
+                        "bonus",
+                        "research",
+                        "team",
+                        "funds",
+                        "children"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "Yes you can. As soon as you or myself click the done button. Thank you for your time and enjoy the rest of your evening!",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                },
+                "T17": {
+                    "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+                    "topics": [
+                        "way",
+                        "money",
+                        "hands"
+                    ]
+                },
+                "T18": {
+                    "turn": "Am i able to donate directly or how does that work?",
+                    "topics": []
+                },
+                "T19": {
+                    "turn": "At the end you will be asked if you want to donate any of your $2 bonus. The research team will then collect all funds donated and send them to Save the Children",
+                    "topics": [
+                        "end",
+                        "bonus",
+                        "research",
+                        "team",
+                        "funds",
+                        "children"
+                    ]
+                },
+                "T20": {
+                    "turn": "Nice, so i guess i can donate now, right?",
+                    "topics": [
+                        "guess"
+                    ]
+                }
+            }
+        },
+        {
+            "turn": "Thanks so much, you too",
+            "history": {
+                "T1": {
+                    "turn": "Hello! Are you familier with non government organizations?",
+                    "topics": [
+                        "government",
+                        "organizations"
+                    ]
+                },
+                "T2": {
+                    "turn": "I think i am but it depends what type you are talking about.",
+                    "topics": [
+                        "type",
+                        "talking"
+                    ]
+                },
+                "T3": {
+                    "turn": "I am talking about one i particular. It is called Save the Children. Are you familiar with this organization?",
+                    "topics": [
+                        "children",
+                        "organization"
+                    ]
+                },
+                "T4": {
+                    "turn": "I have heard of it and have seen their many commercials. ",
+                    "topics": [
+                        "commercials"
+                    ]
+                },
+                "T5": {
+                    "turn": "That is great! Have you ever made a donation to this organization?",
+                    "topics": [
+                        "donation",
+                        "organization"
+                    ]
+                },
+                "T6": {
+                    "turn": "I have not but i have always wanted to but never had the opportunity or time to. Have you?",
+                    "topics": [
+                        "opportunity",
+                        "time"
+                    ]
+                },
+                "T7": {
+                    "turn": "I have not either. And honestly I have a strong belief in this organization. I recently had a daughter who is now a month old. And I could not imagine what I would do if I was unable to help her. ",
+                    "topics": [
+                        "belief",
+                        "organization",
+                        "daughter",
+                        "month",
+                        "help"
+                    ]
+                },
+                "T8": {
+                    "turn": "Yeah i can't imagine either. It is a hard life in this world.",
+                    "topics": [
+                        "yeah",
+                        "nt",
+                        "life",
+                        "world"
+                    ]
+                },
+                "T9": {
+                    "turn": "Absolutely it is! I was actually thinking of donating some of my bonus from this task to this organization. ",
+                    "topics": [
+                        "bonus",
+                        "task",
+                        "organization"
+                    ]
+                },
+                "T10": {
+                    "turn": "That's nice, how much are you thinking of?",
+                    "topics": [
+                        "thinking"
+                    ]
+                },
+                "T11": {
+                    "turn": "I was thinking .30-.50 The task has taken some time to complete so it is fair for me to be compensated. But I think this organization needs every little bit and hopefully others will feel the same. ",
+                    "topics": [
+                        "task",
+                        "time",
+                        "think",
+                        "organization",
+                        "bit",
+                        "others"
+                    ]
+                },
+                "T12": {
+                    "turn": "yeah, i think it is a great opportunity and time that i get to do my part",
+                    "topics": [
+                        "think",
+                        "opportunity",
+                        "time",
+                        "part"
+                    ]
+                },
+                "T13": {
+                    "turn": "That sounds great! I feel we are both thinking the same here! If you are given the opportunity to donate some of your bonus to this organization what do you think is a fair amount?",
+                    "topics": [
+                        "sounds",
+                        "opportunity",
+                        "bonus",
+                        "organization",
+                        "amount"
+                    ]
+                },
+                "T14": {
+                    "turn": "I was thinking a good amount for me will be $1",
+                    "topics": [
+                        "amount"
+                    ]
+                },
+                "T15": {
+                    "turn": "That is very generous of you. Good for you. I know it always makes me feel good when giving to organizations like this. ",
+                    "topics": [
+                        "organizations"
+                    ]
+                },
+                "T16": {
+                    "turn": "Yeah, well its not everyday that i get to give so i better make the best of it",
+                    "topics": []
+                },
+                "T17": {
+                    "turn": "That is a great way to think about it. And since the money is not yet in your hands it makes it that much easier to give a little. ",
+                    "topics": [
+                        "way",
+                        "money",
+                        "hands"
+                    ]
+                },
+                "T18": {
+                    "turn": "Am i able to donate directly or how does that work?",
+                    "topics": []
+                },
+                "T19": {
+                    "turn": "At the end you will be asked if you want to donate any of your $2 bonus. The research team will then collect all funds donated and send them to Save the Children",
+                    "topics": [
+                        "end",
+                        "bonus",
+                        "research",
+                        "team",
+                        "funds",
+                        "children"
+                    ]
+                },
+                "T20": {
+                    "turn": "Nice, so i guess i can donate now, right?",
+                    "topics": [
+                        "guess"
+                    ]
+                },
+                "T21": {
+                    "turn": "Yes you can. As soon as you or myself click the done button. Thank you for your time and enjoy the rest of your evening!",
+                    "topics": [
+                        "button",
+                        "time",
+                        "rest",
+                        "evening"
+                    ]
+                }
+            }
+        }
+    ]
+}

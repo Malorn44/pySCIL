@@ -1,0 +1,17 @@
+,comm-mgmt,prcs-mgmt,task,task-mgmt,<untagged>,frequency,count
+other-conventional-phrase,97.906,0,1.047,1.047,0,2.224,191
+assertion-opinion,5.41,10.237,80.449,3.904,0,37.883,3253
+information-request,7.973,31.063,54.651,6.312,0,7.011,602
+agree-accept,1.105,9.945,85.241,3.71,0,14.755,1267
+acknowledge,20.571,6.0,72.571,0.857,0,4.076,350
+response-answer,4.757,38.573,53.051,3.619,0,11.261,967
+action-directive,9.249,57.225,28.902,4.624,0,2.015,173
+conventional-closing,100.0,0,0,0,0,1.048,90
+<untagged>,0,0,0,0,100.0,8.769,753
+confirmation-request,5.0,35.769,50.769,8.462,0,3.028,260
+response-non-answer,0.82,8.197,83.607,7.377,0,1.421,122
+disagree-reject,1.445,5.491,90.751,2.312,0,4.029,346
+signal-non-understanding,19.048,4.762,76.19,0,0,0.245,21
+conventional-opening,100.0,0,0,0,0,1.071,92
+correct-misspelling,98.837,0,1.163,0,0,1.002,86
+offer-commit,21.429,21.429,57.143,0,0,0.163,14

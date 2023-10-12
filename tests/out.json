@@ -1,0 +1,399 @@
+{
+    "speakers": {
+        "macy": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0.09375,
+                        0.0625
+                    ],
+                    "nt": [
+                        0.0784313725490196,
+                        0.058823529411764705
+                    ],
+                    "list": [
+                        0.06060606060606061,
+                        0.09090909090909091
+                    ],
+                    "osama": [
+                        0.17142857142857143,
+                        0.05714285714285714
+                    ],
+                    "google": [
+                        0.11764705882352941,
+                        0.08823529411764706
+                    ],
+                    "jobs": [
+                        0.1,
+                        0.1
+                    ],
+                    "people": [
+                        0.08823529411764706,
+                        0.08823529411764706
+                    ],
+                    "impact": [
+                        0.125,
+                        0.09375
+                    ],
+                    "name": [
+                        0.10810810810810811,
+                        0.05405405405405406
+                    ],
+                    "criteria": [
+                        0.0967741935483871,
+                        0.06451612903225806
+                    ],
+                    "contributions": [
+                        0.09375,
+                        0.0625
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "2",
+                    "nt": "2",
+                    "list": "2",
+                    "osama": "2",
+                    "google": "2",
+                    "jobs": "2",
+                    "people": "2",
+                    "impact": "2",
+                    "name": "2",
+                    "criteria": "2",
+                    "contributions": "2"
+                }
+            }
+        },
+        "melany": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0.02631578947368421,
+                        0.02631578947368421
+                    ],
+                    "nt": [
+                        0.08163265306122448,
+                        0.061224489795918366
+                    ],
+                    "list": [
+                        0.0,
+                        0.02631578947368421
+                    ],
+                    "osama": [
+                        0.05,
+                        0.025
+                    ],
+                    "google": [
+                        0.0,
+                        0.05
+                    ],
+                    "jobs": [
+                        0.0,
+                        0.02564102564102564
+                    ],
+                    "people": [
+                        0.0,
+                        0.0
+                    ],
+                    "impact": [
+                        0.0,
+                        0.0
+                    ],
+                    "name": [
+                        0.02564102564102564,
+                        0.0
+                    ],
+                    "criteria": [
+                        0.0,
+                        0.0
+                    ],
+                    "contributions": [
+                        0.0,
+                        0.0
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "2",
+                    "nt": "2",
+                    "list": "2",
+                    "osama": "2",
+                    "google": "2",
+                    "jobs": "2",
+                    "people": "2",
+                    "impact": "2",
+                    "name": "2",
+                    "criteria": "2",
+                    "contributions": "2"
+                }
+            }
+        },
+        "moderator": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0,
+                        0
+                    ],
+                    "nt": [
+                        0.0,
+                        0.0
+                    ],
+                    "list": [
+                        0,
+                        0
+                    ],
+                    "osama": [
+                        0,
+                        0
+                    ],
+                    "google": [
+                        0,
+                        0
+                    ],
+                    "jobs": [
+                        0,
+                        0
+                    ],
+                    "people": [
+                        0,
+                        0
+                    ],
+                    "impact": [
+                        0,
+                        0
+                    ],
+                    "name": [
+                        0,
+                        0
+                    ],
+                    "criteria": [
+                        0,
+                        0
+                    ],
+                    "contributions": [
+                        0,
+                        0
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "1",
+                    "nt": "1",
+                    "list": "1",
+                    "osama": "1",
+                    "google": "1",
+                    "jobs": "1",
+                    "people": "1",
+                    "impact": "1",
+                    "name": "1",
+                    "criteria": "1",
+                    "contributions": "1"
+                }
+            }
+        },
+        "ariel": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0,
+                        0
+                    ],
+                    "nt": [
+                        0,
+                        0
+                    ],
+                    "list": [
+                        0,
+                        0
+                    ],
+                    "osama": [
+                        0,
+                        0
+                    ],
+                    "google": [
+                        0,
+                        0
+                    ],
+                    "jobs": [
+                        0,
+                        0
+                    ],
+                    "people": [
+                        0,
+                        0
+                    ],
+                    "impact": [
+                        0,
+                        0
+                    ],
+                    "name": [
+                        0,
+                        0
+                    ],
+                    "criteria": [
+                        0,
+                        0
+                    ],
+                    "contributions": [
+                        0,
+                        0
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "1",
+                    "nt": "1",
+                    "list": "1",
+                    "osama": "1",
+                    "google": "1",
+                    "jobs": "1",
+                    "people": "1",
+                    "impact": "1",
+                    "name": "1",
+                    "criteria": "1",
+                    "contributions": "1"
+                }
+            }
+        },
+        "jake": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0.0,
+                        0.05263157894736842
+                    ],
+                    "nt": [
+                        0.14285714285714285,
+                        0.0
+                    ],
+                    "list": [
+                        0.0,
+                        0.0
+                    ],
+                    "osama": [
+                        0.11764705882352941,
+                        0.0
+                    ],
+                    "google": [
+                        0.0,
+                        0.0625
+                    ],
+                    "jobs": [
+                        0.0,
+                        0.05
+                    ],
+                    "people": [
+                        0.0625,
+                        0.0
+                    ],
+                    "impact": [
+                        0.05555555555555555,
+                        0.0
+                    ],
+                    "name": [
+                        0.05555555555555555,
+                        0.0
+                    ],
+                    "criteria": [
+                        0.0,
+                        0.0
+                    ],
+                    "contributions": [
+                        0.0,
+                        0.0
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "1",
+                    "nt": "1",
+                    "list": "1",
+                    "osama": "1",
+                    "google": "1",
+                    "jobs": "1",
+                    "people": "1",
+                    "impact": "1",
+                    "name": "1",
+                    "criteria": "1",
+                    "contributions": "1"
+                }
+            }
+        },
+        "lynn": {
+            "TopicalPolarityIndex": {
+                "topics": {
+                    "ok": [
+                        0.08823529411764706,
+                        0.058823529411764705
+                    ],
+                    "nt": [
+                        0.10638297872340426,
+                        0.1276595744680851
+                    ],
+                    "list": [
+                        0.12195121951219512,
+                        0.0975609756097561
+                    ],
+                    "osama": [
+                        0.18604651162790697,
+                        0.06976744186046512
+                    ],
+                    "google": [
+                        0.08571428571428572,
+                        0.05714285714285714
+                    ],
+                    "jobs": [
+                        0.08823529411764706,
+                        0.029411764705882353
+                    ],
+                    "people": [
+                        0.07692307692307693,
+                        0.15384615384615385
+                    ],
+                    "impact": [
+                        0.17073170731707318,
+                        0.0975609756097561
+                    ],
+                    "name": [
+                        0.125,
+                        0.025
+                    ],
+                    "criteria": [
+                        0.125,
+                        0.025
+                    ],
+                    "contributions": [
+                        0.08571428571428572,
+                        0.02857142857142857
+                    ]
+                }
+            },
+            "PolarityStrengthIndex": {
+                "topics": {
+                    "ok": "2",
+                    "nt": "2",
+                    "list": "2",
+                    "osama": "2",
+                    "google": "2",
+                    "jobs": "2",
+                    "people": "2",
+                    "impact": "2",
+                    "name": "2",
+                    "criteria": "2",
+                    "contributions": "2"
+                }
+            }
+        }
+    },
+    "error": {
+        "TopicalPolarityIndex": "",
+        "PolarityStrengthIndex": "",
+        "TopicalPositioningFunctions": ""
+    }
+}
