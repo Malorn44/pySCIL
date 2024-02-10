@@ -1,0 +1,18 @@
+Calculating Bigram Topics
+Calculating Unigram Topics
+,comm-mgmt,prcs-mgmt,task
+other-conventional-phrase,83.333,0,16.667
+conventional-opening,100.0,0,0
+confirmation-request,11.765,35.294,52.941
+response-answer,15.094,39.623,45.283
+action-directive,10.714,46.429,42.857
+acknowledge,17.391,47.826,34.783
+information-request,18.367,46.939,34.694
+offer-commit,100.0,0,0
+assertion-opinion,6.763,25.121,68.116
+agree-accept,1.887,29.245,68.868
+response-non-answer,8.333,25.0,66.667
+correct-misspelling,100.0,0,0
+disagree-reject,0,25.0,75.0
+signal-non-understanding,0,0,100.0
+conventional-closing,100.0,0,0
